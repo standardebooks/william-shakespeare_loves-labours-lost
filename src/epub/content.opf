@@ -29,7 +29,7 @@
 		<dc:title id="title">Love’s Labour’s Lost</dc:title>
 		<meta property="file-as" refines="#title">Love’s Labour’s Lost</meta>
 		<meta property="dcterms:alternative" refines="#title">Love’s Labor’s Lost</meta>
-		<meta property="dcterms:alternative" refines="#title">Loves Labour's Lost</meta>
+		<meta property="dcterms:alternative" refines="#title">Loves Labour’s Lost</meta>
 		<meta property="dcterms:alternative" refines="#title">Love’s Labours Lost</meta>
 		<meta property="dcterms:alternative" refines="#title">Loves Labours Lost</meta>
 		<dc:subject id="subject-1">Comedies</dc:subject>
