@@ -66,7 +66,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Edward Coley Burne-Jones</dc:contributor>
 		<meta property="file-as" refines="#artist">Burne-Jones, Edward Coley</meta>
-		<meta property="schema:alternateName" refines="#artist">Sir Edward Coley Burne-Jones</meta>
 		<link href="https://en.wikipedia.org/wiki/Edward_Burne-Jones" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79120945.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
